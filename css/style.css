@@ -45,9 +45,9 @@ h1 {
     user-select: none;
 }
 
-.cell:hover {
+/* .cell:hover {
     background-color: #e8f4fd;
-}
+} */
 
 .cell.X {
     color: #e74c3c;
